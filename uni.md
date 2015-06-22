@@ -37,3 +37,8 @@ For a class on graphics and their lower level function, our final project consis
 <a href="http://apps.microsoft.com/windows/en-au/app/rebound/5bb5f89f-550d-46ea-843b-d7019cc2122b">Windows Store link</a>
 
 <img src="assets/nightmode.jpg" width="400">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>

@@ -19,7 +19,7 @@ Completely disassembled and analysed for reasonable comprehension of its functio
 
 ##Car Sound System
 
-After purchasing a car the first thought was to see what could be improved. The obvious choice was a custom sound system, so secondhand components were sourced and installed. The only stock part of the system left is the aerial, with a subwoofer, subwoofer amp, 4x satellite speakers, a speaker amp, head unit and replacement wiring going into the car. This really taught me to respect high current electricity!
+After purchasing a car the first thought was to see what could be improved. The obvious choice was a custom sound system, so secondhand components were sourced and installed. The only stock part of the system left is the aerial, with a subwoofer, subwoofer amp, 4x satellite speakers, a speaker amp, head unit and replacement wiring going into the car. This really taught me to respect high current electricity! I have since installed several sound systems in friends vehicles, in about 1/4 the time and with 1/4 the swearing.
 
 <img src="assets/soundsystem.jpg" width="400">
 
@@ -27,7 +27,7 @@ After purchasing a car the first thought was to see what could be improved. The 
 
 ##Custom PC Case
 
-Why throw out a beautiful, elegant case when the contents get a bit outdated? As a summer project, an old PowerMac G5 was resurrected as a shiny new gaming rig. It was completely gutted and rebuilt to conform to ATX spec, while keeping the outside as stock as possible. Small touches such as a rewired and reused power button and LED complete the look. It still purrs along in daily use. Regular component upgrades means it’s well overdue for some loving cable management.
+Why throw out a beautiful, elegant case when the contents get a bit outdated? As a summer project, an old PowerMac G5 was resurrected as a shiny new gaming rig. It was completely gutted and rebuilt to conform to ATX spec, while keeping the outside as stock as possible. Small touches such as a rewired and reused power button and LED complete the look. It still purrs along in daily use. Regular component upgrades means it’s well overdue for some loving cable management. As with sound systems, I enjoy building PCs and have assembled many for friends and family.
 
 
 <img src="assets/pcside.jpg" width="400">
@@ -43,3 +43,15 @@ Programmable to display 3D shapes! Built in high school from instructions found 
 <img src="assets/cube.jpg" width="400">
 
 <video src="assets/cube.mp4" width="400" controls preload></video>
+
+A video I posted on Facebook many years ago showing off my cube.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+
+

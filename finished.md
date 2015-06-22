@@ -57,3 +57,8 @@ This is where I first started with electronics. My first foray into the field of
 <img src="assets/newlogo.jpg" width="400">
 
 The business logo, some of the tools of the trade and a completed controller mod
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
