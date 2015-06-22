@@ -5,4 +5,10 @@ description: "finished"
 ---
 {% include JB/setup %}
 
-Some highlights of my university coursework projects include
+These projects reached a fully functional stage. There may still be work planned on them.
+
+
+
+
+#21st Pool Lights
+<video src="assets/lights.mp4" width="320" controls preload></video>
