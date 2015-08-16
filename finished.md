@@ -13,7 +13,9 @@ These projects reached a fully functional stage. There may still be work planned
 ##Aster.io - 24 hour hackathon project
 Along with 2 friends from University, we created a game in 24 hours as part of a hackathon competition. We build a game server and physics engine from the ground up, creating "All the fun of the original asteroids now online with as many friends as you can fit on your screen!" We built a server based on Node.js running an express.js web server, and using socket.io to communicate with a frontend running paper.js. Lots of javascript frameworks to learn in a very short period of time! 
 [Bitbucket repository link](https://bitbucket.org/sjdrc/asteroids.git)
-<iframe width="870" height="612" src="https://www.youtube.com/embed/CcBbxieS2IA" frameborder="0" allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=CcBbxieS2IA
+" target="_blank"><img src="http://img.youtube.com/vi/CcBbxieS2IA/0.jpg" 
+alt="Aster.io gameplay video" width="240" height="180" border="10" /></a>
 
 ##21st Pool Lights
 For my 21st birthday, I wanted to have lights integrated into the music and entertainment system. The goal was to control the existing lighting, as well as additionally purchased party lighting, from a central source in a way that would synchronise with and enhance whatever music was currently playing. After iterating through single device solutions on an arduino, and then a raspberry pi, I found that optimum performance would be found by running an analysis program on the PC which would control an arduino over a serial connection tunneled over USB, and then control the relays from that board.
